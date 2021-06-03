@@ -8,7 +8,7 @@ Ciências da computação
   <br> <br>
   Sou um estudante que sempre gostei muito de tecnologia,atualmente estou sempre estudando as tecnologias de desenvolvimento Web(HTML/CSS/Javascript). <br> <br>
   Sou apaxionado em realizar layouts usando as tecnologias Html e Css e tambem resolver desafios de linguagens de programação, atualmente estou usando Python e Javascript. <br> <hr>
-  Sempre Acredito que um dos pontos fortes que devemos ter no mundo de desenvolvimento Web é ter a persistência, praticas e sempre aprender com os erros para que assim leva um maior conhecimento da tecnologia, pois deve ser por isso que sou um estudante apaixonado nesta área.
+  Sempre Acredito que um dos pontos fortes que devemos ter no mundo de desenvolvimento Web é ter a persistência, praticas e sempre aprender com os erros para que assim ganhamos um maior conhecimento da tecnologia realizada, pois deve ser por isso que sou um estudante apaixonado nesta área.
   
  
  
