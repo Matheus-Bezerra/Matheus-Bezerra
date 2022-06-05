@@ -1,4 +1,4 @@
-## Oi! Eu sou Matheus Bezerra 
+## Oii! Eu sou Matheus Bezerra 
 -🖥 Desenvolvedor Web <br>
 -📚 Cursando Ciências da computação
 <br><hr>
@@ -11,7 +11,9 @@
   <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   <hr>
    <div>
@@ -22,8 +24,8 @@
  <a href="https://discord.gg/matheusfdd8#5357" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </div>
   <br> <br>
-  Gosto muito de codar layouts usando as tecnologias Html e Css, tambem resolver desafios de linguagens de programação, atualmente estou usando Python e Javascript. <br> <hr>
-  Sempre Acredito que um dos pontos fortes que devemos ter no mundo de desenvolvimento Web é ter persistência, praticar e ter capacidade de resolver problemas a todo momento.
+  Sou um dev apaixonante pela área de desenvolvimento Web e Mobile, gosto de resolver problemas, busco desafios a todo momento, pois umas das melhores sensações é ter resolvido eles. <br> <hr>
+  Sempre Acredito que um dos pontos fortes que devemos ter no mundo de desenvolvimento é ter persistência, praticar a todo momento para cada vez mais estar preparado para resolver problemas no dia a dia.
   
  
  
