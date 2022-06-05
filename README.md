@@ -23,7 +23,7 @@
   </div>
   <br> <br>
   Gosto muito de codar layouts usando as tecnologias Html e Css, tambem resolver desafios de linguagens de programação, atualmente estou usando Python e Javascript. <br> <hr>
-  Sempre Acredito que um dos pontos fortes que devemos ter no mundo de desenvolvimento Web é ter a persistência, praticas e sempre aprender com os erros.
+  Sempre Acredito que um dos pontos fortes que devemos ter no mundo de desenvolvimento Web é ter persistência, praticar e ter capacidade de resolver problemas a todo momento.
   
  
  
