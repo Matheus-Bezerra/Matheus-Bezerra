@@ -25,8 +25,8 @@
  <a href="https://discord.gg/matheusfdd8#5357" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   </div>
   <br> <br>
-  Sou um dev apaixonado pela setor de desenvolvimento Web e Mobile, gosto de resolver problemas, busco desafios a todo momento, pois é uma das melhores sensações ter eles resolvidos não é mesmo?. <br> <hr>
-  Sempre Acredito que um dos pontos fortes que devemos ter no mundo de desenvolvimento é ter persistência, praticar a todo momento para cada vez mais ser preparar e gostar de resolver problemas
+  Sou um dev apaixonado pela setor de desenvolvimento Web e Mobile, gosto de resolver problemas, busco desafios a todo momento, pois é uma das melhores sensações ter eles resolvidos não é mesmo? <br> <hr>
+  Sempre Acredito que um dos pontos fortes que devemos ter no mundo de desenvolvimento é ter persistência, praticar a todo momento e gostar de resolver problemas, por isso me identifico muito com a área.
   
  
  
