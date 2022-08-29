@@ -1,5 +1,5 @@
 ## Oii! Eu sou Matheus Bezerra 
--🖥 Desenvolvedor Web <br>
+-🖥 Desenvolvedor Front-end <br>
 -📚 Cursando Ciências da computação
 <br><hr>
 <div>
