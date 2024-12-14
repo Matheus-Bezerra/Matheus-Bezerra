@@ -1,6 +1,6 @@
 ## Oii! Eu sou Matheus Bezerra 
 -🖥 Desenvolvedor Front-end <br>
--📚 Cursando Ciências da computação
+-📚 Formado em Ciências da computação
 <br><hr>
 <div>
   <a href="https://github.com/Matheus-Bezerra">
