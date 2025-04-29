@@ -1,5 +1,5 @@
 ## Oii! Eu sou Matheus Bezerra 
--🖥 Desenvolvedor Front-end <br>
+-🖥 Desenvolvedor Full Stack <br>
 -📚 Formado em Ciências da computação
 <br><hr>
 <div>
