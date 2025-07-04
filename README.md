@@ -1,5 +1,5 @@
-## Oii! Eu sou Matheus Bezerra 
--🖥 Desenvolvedor Full Stack <br>
+## Olá! Eu sou Matheus Bezerra 
+-🖥 Engenheiro de software <br>
 -📚 Formado em Ciências da computação
 <br><hr>
 <div>
@@ -26,10 +26,5 @@
   <br> <br>
   Sou um dev apaixonado por solucionar problemas de software, busco desafios a todo momento, pois é uma das melhores sensações do mundo ter eles resolvidos não é mesmo? <br> <hr>
   Sempre Acredito que um dos pontos fortes que devemos ter no mundo de desenvolvimento de software é ter persistência, praticar a todo momento e gostar de resolver problemas, por isso me identifico muito com a área.
-  
- 
- 
-
-  ![Snake animation](https://github.com/Matheus-Bezerra/Matheus-Bezerra/blob/output/github-contribution-grid-snake.svg)
  
 </div>
