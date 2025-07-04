@@ -6,13 +6,15 @@
 
 ## 💬 Sobre mim
 
-Sou um dev apaixonado por solucionar problemas de software. Busco desafios a todo momento, pois é uma das melhores sensações do mundo ter eles resolvidos, não é mesmo? 🚀
+🚀 Sou desenvolvedor de software, formado em Ciências da Computação, com experiência na criação e evolução de sistemas que geram impacto real. <br>
 
-Acredito que um dos pontos fortes que devemos ter no mundo do desenvolvimento é **persistência**, praticar constantemente e gostar de resolver problemas. Por isso me identifico tanto com essa área!
+💼 Atualmente trabalho na Pasquali Solutions em um produto baseado em microserviços, usando Java, React e Bubble, focado na implementação de funcionalidades, correção de bugs e melhoria da experiência do usuário. <br>
+
+🎯 Apaixonado por resolver desafios técnicos, busco sempre evoluir, explorando novas tecnologias e aprimorando minhas habilidades em Java, Spring Boot, React, TypeScript, Node.js e bancos de dados.
 
 ---
 
-## 🚀 Principais tecnologias
+## 🛠️ Principais tecnologias
 
 <p align="center">
   <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
