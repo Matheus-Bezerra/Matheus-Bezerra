@@ -1,6 +1,6 @@
 ## Olá! Eu sou Matheus Bezerra 
 -🖥 Engenheiro de software <br>
-- Principal Stack: React + Java + Node
+- Principal Stack: React + Java + Node <br>
 -📚 Formado em Ciências da computação
 <br><hr>
 <div>
