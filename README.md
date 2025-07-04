@@ -1,19 +1,20 @@
 ## Olá! Eu sou Matheus Bezerra 
 - 🖥 Engenheiro de software <br>
-- Principal Stack: React + Java + Node <br>
 - 📚 Formado em Ciências da computação
-<br><hr>
-<div>
-  <a href="https://github.com/Matheus-Bezerra">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Bezerra&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<hr>
+
+## Principais tecnologias
+<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Bezerra&layout=compact&langs_count=7&theme=merko"/>
-</div>
+</p>
+
  <div style="display: inline_block"><br>
 
   <img align="center" alt="Matheus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Matheus-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Matheus-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Matheus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Matheus-Next" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Matheus-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Matheus-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Matheus-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
