@@ -6,7 +6,7 @@
 
 ## 💬 Sobre mim
 
-🚀 Sou engenheiro de software com experiência no desenvolvimento, modernização e sustentação de **produtos digitais e sistemas SaaS**. Atuo ponta a ponta, com **React, Angular e TypeScript** no front-end e **Java/Spring Boot e Node.js** no back-end, além de **micro-frontends**, APIs REST e bancos relacionais e não relacionais.
+🚀 Sou engenheiro de software com experiência na construção de **produtos digitais escaláveis**. Atuo ponta a ponta, da arquitetura à produção, unindo front-end e back-end para entregar soluções que acompanham o crescimento do negócio.
 
 💼 Atualmente atuo na **Fiorde** como referência técnica. Modernizei uma das principais aplicações da empresa, migrando uma solução legada em **Bubble** para **React, TypeScript, Java e Spring Boot**. Defino padrões de desenvolvimento, desenvolvo componentes do Design System, faço code review e participo de decisões de arquitetura até a produção. Também evoluo APIs, regras de negócio e integrações de **logística e comércio exterior**, com **PostgreSQL, MySQL, Oracle e MongoDB**.
 
